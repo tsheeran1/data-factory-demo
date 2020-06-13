@@ -1,0 +1,8 @@
+{
+	"name": "AzureMySqlTable1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureMySqlTable",
+		"schema": []
+	}
+}
